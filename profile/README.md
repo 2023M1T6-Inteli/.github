@@ -2,15 +2,15 @@
 
 ## 🔍 O problema:
 
-...
+Formentar as boas práticas e aumentar a aderência nos treinamentos e para o conteúdo de treinamento / checklist de boas práticas de condução de produtos com periculosidade.
 
 ## 🎯 O objetivo:
 
-...
+Solução de gamificação associada a um programa de bonificação / premiação, que engaje e conscientize os profissionais, internos e terceiros, a comportamentos mais seguros a fim de formentar a cultura de segurança da Unipar e reduzir ocorrências que envolvem as operações logísticas. 
 
 ## 🧩 O público-alvo:
 
-...
+Funcionários e terceiros da frota logística. 
 
 ## 💻 Desenvolvimento de jogo digital:
 
