@@ -2,7 +2,7 @@
 
 ## 🔍 O problema:
 
-Formentar as boas práticas e aumentar a aderência nos treinamentos e para o conteúdo de treinamento / checklist de boas práticas de condução de produtos com periculosidade.
+Fomentar as boas práticas e aumentar a aderência nos treinamentos e para o conteúdo de treinamento / checklist de boas práticas de condução de produtos com periculosidade.
 
 ## 🎯 O objetivo:
 
